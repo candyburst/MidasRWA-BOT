@@ -10,7 +10,7 @@ wib = pytz.timezone('Asia/Jakarta')
 class MidasRWA:
     def __init__(self) -> None:
         self.BASE_API = "https://api-tg-app.midas.app"
-        self.REF_CODE = "ref_b6243c03-25ae-43f0-9667-5defd6c43b9b" # U can change it with yours.
+        self.REF_CODE = "ref_e6cb75c5-a6e3-4457-9cbd-00fbd6789986" # U can change it with yours.
         self.HEADERS = {}
         self.proxies = []
         self.proxy_index = 0
