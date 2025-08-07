@@ -24,7 +24,7 @@ Register Here : [MidasRWA](https://t.me/MidasRWA_bot/app?startapp=ref_b6243c03-2
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/MidasRWA-BOT.git
+   git clone https://github.com/candyburst/MidasRWA-BOT.git
    ```
    ```bash
    cd MidasRWA-BOT
